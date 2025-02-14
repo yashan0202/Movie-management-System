@@ -60,4 +60,4 @@
         The system lays a strong foundation for incorporating advanced features like API integrations or GUI enhancements in the future.
     </p>
 
-<h2>Developed by : Yash Anand</h2>
+<h2>Developed by : Yash Anand </h2>
